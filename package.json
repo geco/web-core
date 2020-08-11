@@ -1,5 +1,6 @@
 {
   "name": "tw-monorepo",
+  "version: "1.0",
   "engines": {
     "node": ">=6.12"
   },
